@@ -1,0 +1,1 @@
+activemq messaging standalone
